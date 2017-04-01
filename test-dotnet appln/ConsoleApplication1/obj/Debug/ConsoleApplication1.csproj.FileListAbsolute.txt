@@ -1,0 +1,8 @@
+C:\Users\rsaru\Documents\Visual Studio 2015\projects\test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\rsaru\Documents\Visual Studio 2015\projects\test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\rsaru\Documents\Visual Studio 2015\projects\test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\rsaru\Documents\Visual Studio 2015\projects\test\ConsoleApplication1\obj\Debug\Interop.Shell32.dll
+C:\Users\rsaru\Documents\Visual Studio 2015\projects\test\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+C:\Users\rsaru\Documents\Visual Studio 2015\projects\test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\rsaru\Documents\Visual Studio 2015\projects\test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\rsaru\Documents\Visual Studio 2015\projects\test\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
